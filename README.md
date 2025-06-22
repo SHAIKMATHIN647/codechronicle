@@ -35,7 +35,7 @@ Password: admin123
 
 ## 📌 Author
 
-**Developed by Bhanu Mathin**  
+**Developed by Shaik Mathin**  
 Student & Aspiring Software Engineer  
 Passionate about web development and building impactful applications.
 
